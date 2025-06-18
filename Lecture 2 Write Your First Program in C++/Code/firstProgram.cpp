@@ -7,6 +7,10 @@ int main(){
 
     cout << number << endl;
 
+    string name = "Pushit Chaudhary";
+
+    cout << name << endl;
+
 
 }
 
